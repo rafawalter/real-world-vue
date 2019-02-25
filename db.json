@@ -44,6 +44,34 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "teste",
+      "description": "asasdf",
+      "location": "asd",
+      "date": "2019-03-01T02:06:00.000Z",
+      "time": "10:00",
+      "attendees": [],
+      "id": 8419989
+    },
+    {
+      "id": 1142739,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "asdf",
+      "description": "asdf",
+      "location": "adsf",
+      "date": "2019-02-02T01:08:00.000Z",
+      "time": "8:00",
+      "attendees": []
     }
   ]
 }
